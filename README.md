@@ -5,6 +5,7 @@ At the moment the website displays only this message -  "Express Welcome to expr
 ### Aplication is built in
 
 - JS
+- HTML5
 - deployed on Azure
 
 #### Getting started check if you have git version on your machine 
