@@ -7,7 +7,7 @@ At the moment the website displays only this message -  "Express Welcome to expr
 - JS
 - deployed on Azure
 
-#### Getting started check have if you have git version on your machine 
+#### Getting started check if you have git version on your machine 
 
 ``` 
 $ git --version
